@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1361188971 source:c:\users\user\contacts\desktop\project_ostras_perlawan - copy\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1361323904 c:\users\user\contacts\desktop\project_ostras_perlawan - copy\project.h
+	<iostream>
+	<cstdlib>
+	"math.h"
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+
+1361324425 source:c:\users\user\contacts\desktop\project_ostras_perlawan - copy\project.cpp
+	"Project.h"
+
+1362153576 source:c:\users\user\contacts\desktop\project_ostras_perlawan\main.cpp
+	<iostream>
+	<cstdlib>
+	"project.h"
+	<string>
+
+1362153639 c:\users\user\contacts\desktop\project_ostras_perlawan\project.h
+	"math.h"
+	<string>
+	<iostream>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<sstream>
+	<string.h>
+	<iomanip>
+	<set>
+	<algorithm>
+
+1362153576 source:c:\users\user\contacts\desktop\project_ostras_perlawan\project.cpp
+	"project.h"
+	<iostream>
+	<sstream>
+	<fstream>
+	<vector>
+
+1363943892 source:c:\users\user\contacts\desktop\perlawanostras-master\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<math.h>
+	"Project.h"
+
+1363943891 c:\users\user\contacts\desktop\perlawanostras-master\project.h
+	<string>
+
+1363943891 source:c:\users\user\contacts\desktop\perlawanostras-master\project.cpp
+	"Project.h"
+	<iostream>
+	<math.h>
+	<cstring>
+	<vector>
+	<stdio.h>
+	<fstream>
+	<algorithm>
+	<string>
+	<sstream>
+
